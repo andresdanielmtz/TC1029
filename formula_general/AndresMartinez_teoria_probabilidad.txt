@@ -1,0 +1,20 @@
+La formula general se refiere a una herramienta que permite resolver ecuaciones 
+cuadráticas, mejor conocidas como ecuaciones de segundo grado. 
+Algunos ejemplos para este tipo de ecuaciones son: 
+
+- x^2 + 9x + 3 = 0 
+- 8x^2 + 28x + 75 = 0 
+
+La formula general se representa de la siguiente manera: 
+
+        -b ± raiz(b^2 - 4ac)
+        -------------------
+                2a
+
+En este caso una ecuación cuadrática, cuando esta está igualada a cero, se puede
+representar de la siguiente manera:
+
+            ax^2 + bx + c 
+
+Referencia Bibliográfica: 
+Westreicher, G. (2021, December 9). Fórmula general. Economipedia. Retrieved October 15, 2022, from https://economipedia.com/definiciones/formula-general.html

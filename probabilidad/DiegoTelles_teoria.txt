@@ -1,0 +1,5 @@
+La probabilidad es una medida de la certidumbre de que ocurra un evento. Su valor es un número entre 0 y 1, donde un evento imposible corresponde a cero y uno seguro corresponde a uno.
+
+Una forma empírica de estimar la probabilidad consiste en obtener la frecuencia con la que sucede un determinado acontecimiento mediante la repetición de experimentos aleatorios, bajo condiciones suficientemente estables. En algunos experimentos de los que se conocen todos los resultados posibles, la probabilidad de estos sucesos pueden ser calculadas de manera teórica, especialmente cuando todos son igualmente probables.
+
+La teoría de la probabilidad es la rama de la matemática que estudia los experimentos o fenómenos aleatorios. Se usa extensamente en áreas como la estadística, la física, las ciencias sociales, la Investigación médica, las finanzas, la economía y la filosofía para conocer la viabilidad de sucesos y la mecánica subyacente de sistemas complejos.

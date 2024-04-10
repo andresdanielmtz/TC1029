@@ -1,0 +1,7 @@
+Para calcular la probabilidad de un suceso tienes que dividir el la cantidad de objetos/situaciones entre el total.
+Ejemplo:
+Alejandro tiene 12 camisetas, 2 son rojas, 5 azules, 1 blanca, 2 amarillas y 2 son negras, ¿cuál es la probabilidad de que Alejandro se ponga una camiseta amarilla si todos los dias usa una camiseta al azar? 
+Primero tenemos que seleccionar dos datos, el total de camisetas(12) y el número que hay de camisetas amarillas(2). 
+Ahora dividmos el número de camisetas amarillas entre el total de camisetas que hay: 2/12. 
+Para un mejor resultado, podemos simplificar la fracción: 1/6.
+La probabilidad de que Alejandro se ponga una camiseta amarilla es de 1/6.

@@ -1,0 +1,34 @@
+
+Números cuánticos
+Corresponde a la representación de la distribución de los electrones alrededor del núcleo de un átomo
+Los números cuánticos son:
+Número cuántico principal (n) [horizontales/periodos en la tabla periodica]
+- Corresponde a los niveles de energía de un electrón.
+Número cuántico secundario (l) [spdf]
+- Conocido también como momento angular. Corresponde a la geometría o forma del orbital.
+Número cuántico magnético (m)
+- Corresponde a la orientación espacial de los orbitales.
+Número cuántico spin (s)
+- Describe el momento angular intrínseco del electrón.
+----------------------------------------------------------------------------------------------------------
+Modelo atómico de Bohr
+"Propuso que los electrones están dispuestos en órbitas circulares concéntricas alrededor del núcleo.
+Este modelo está basado en el sistema solar y se conoce como el modelo planetario."
+Niels Bohr propuso un modelo atómico nuevo en el año 1913 que contaba con 3 postulados. 
+Los 3 postulados son:
+	1.Los electrones describen órbitas circulares en torno al núcleo del átomo sin irradiar energía.
+	2.Las únicas órbitas permitidas para un electrón son aquellas para las cuales el momento angular
+	, L, del electrón sea un múltiplo entero de h = h/ 2pi
+	3.El electrón solo emite o absorbe energía en los saltos de una órbita permitida a otra. En dicho
+	cambio emite o absorbe un fotón cuya energía es la diferencia de energía entre ambos niveles.
+----------------------------------------------------------------------------------------------------------
+fuentes:
+
+Colaboradores de Wikipedia. (2022, 17 octubre). Modelo atómico de Bohr. Wikipedia, la enciclopedia libre. 
+Recuperado 18 de octubre de 2022, de https://es.wikipedia.org/wiki/Modelo_at%C3%B3mico_de_Bohr
+
+General Data Protection Regulation(GDPR) Guidelines BYJU’S. (2021, 22 marzo). BYJUS. 
+Recuperado 18 de octubre de 2022, de https://byjus.com/chemistry/bohrs-atomic-model-and-its-limitations/
+
+Wikipedia contributors. (2022b, septiembre 12). Quantum number. 
+Wikipedia. Recuperado 18 de octubre de 2022, de https://en.wikipedia.org/wiki/Quantum_number
